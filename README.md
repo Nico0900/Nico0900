@@ -1,4 +1,14 @@
-## 👋 ¡Hola!
+Hola! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)soy Nicolas Vargas
+======================================================================================================================================
+
+Python developer
+----------------
+
+Soy titulado como Analista Programador y actualmente curso la carrera de Ingeniería en Ciberseguridad. Me especializo en el desarrollo backend, aunque también tengo experiencia en frontend, diseño y herramientas DevOps. Me interesa el enfoque fullstack, pero mi objetivo es profundizar en backend y ciberseguridad.
+
+Mi lenguaje principal es Python 🐍, con el cual he desarrollado automatizaciones y herramientas web. Además, tengo experiencia con Dart y Flutter en desarrollo móvil multiplataforma. Utilizo herramientas como Git, Docker, y manejo bases de datos relacionales como MySQL y PostgreSQL, así como MongoDB para esquemas NoSQL.
+
+En este perfil comparto proyectos personales, pruebas de concepto y ejercicios de práctica. Gracias por visitar mi perfil. Si encuentras algo interesante o te gustaría colaborar, ¡no dudes en escribirme!
 
 Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por el backend, aunque también tengo experiencia en frontend, diseño y herramientas DevOps. Aquí te comparto mi stack tecnológico:
 
