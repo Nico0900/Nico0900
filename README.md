@@ -19,7 +19,7 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por el backend
   <tr>
     <td>
       <strong>🧠 Lenguajes</strong><br/>
-      <img src="https://skillicons.dev/icons?i=py,dart,js" />
+      <img src="https://skillicons.dev/icons?i=py,dart" />
     </td>
     <td>
       <strong>🌐 Frontend</strong><br/>
