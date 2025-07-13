@@ -1,19 +1,19 @@
 Hola! soy Nicolas Vargas <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"  width="32px" align="center" /> 
 ======================================================================================================================================
 <p align="L">
-  <a href="https://www.linkedin.com/in/tu-usuario-linkedin/" target="www.linkedin.com/in/nicolas-vargas-4b0262186">
+  <a href="www.linkedin.com/in/nicolas-vargas-4b0262186" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
-  <a href="mailto:tu.email@gmail.com" target="_blank">
+  <a href="mailto:nv0900nico@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
-  <a href="https://wa.me/+56958861274" target="https://wa.me/+56958861274">
+  <a href="https://wa.me/+56958861274" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
   </a>
-  <a href="https://instagram.com/tu-usuario" target="_blank">
+  <a href="https://instagram.com/heic_mf" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
   </a>
-  <a href="https://facebook.com/tu-usuario" target="_blank">
+  <a href="https://facebook.com/eduardo.kuentero" target="_blank">
     <img src="https://img.shields.io/badge/facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" height="30"/>
   </a>
 </p>
