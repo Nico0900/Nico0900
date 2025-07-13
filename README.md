@@ -25,47 +25,8 @@ Soy Analista Programador titulado y actualmente curso la carrera de Ingeniería 
 ---
 
 ## 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" align="center" />
-<table>
-  <tr>
-    <td>
-      <strong>🧠 Lenguajes</strong><br/>
-      <img src="https://skillicons.dev/icons?i=py,dart" />
-    </td>
-    <td>
-      <strong>🌐 Frontend</strong><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
-    </td>
-    <td>
-      <strong>🔧 Backend & Frameworks</strong><br/>
-      <img src="https://skillicons.dev/icons?i=django" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>🗃️ Bases de datos</strong><br/>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-    </td>
-    <td>
-      <strong>🛠️ DevOps & Tools</strong><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,windows" />
-    </td>
-    <td>
-      <strong>📱 Desarrollo móvil</strong><br/>
-      <img src="https://skillicons.dev/icons?i=flutter" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>🎨 Diseño & UI</strong><br/>
-      <img src="https://skillicons.dev/icons?i=figma" />
-    </td>
-    <td>
-      <strong>💬 Comunicación</strong><br/>
-      <img src="https://skillicons.dev/icons?i=discord,gmail" />
-    </td>
-    <td></td>
-  </tr>
-</table>
+
+<img src="https://skillicons.dev/icons?i=py,dart,html,css,bootstrap,django,mysql,postgres,mongodb,git,github,docker,postman,linux,windows,flutter,figma,discord,gmail" />
 
 ---
 
