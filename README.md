@@ -24,15 +24,50 @@ Soy Analista Programador titulado y actualmente curso la carrera de Ingeniería 
 
 ---
 
-## 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" align="center" />
-<img src="https://skillicons.dev/icons?i=py,dart,html,css,bootstrap,django,mysql,postgres,mongodb,git,github,docker,postman,linux,windows,flutter,figma,discord,gmail" />
+## 💻 Tecnologias <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" align="center" />
+<div aling="left">
+  <img src="https://skillicons.dev/icons?i=bash" width="50px" />
+  <img src="https://skillicons.dev/icons?i=sublime" width="50px" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="50px" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" width="50px" />
+  <img src="https://skillicons.dev/icons?i=py" width="50px" />
+  <img src="https://skillicons.dev/icons?i=dart" width="50px" />
+  <img src="https://skillicons.dev/icons?i=html" width="50px" />
+  <img src="https://skillicons.dev/icons?i=css" width="50px" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50px" />
+  <img src="https://skillicons.dev/icons?i=anaconda" width="50px" />
+  <img src="https://skillicons.dev/icons?i=django" width="50px" />
+  <img src="https://skillicons.dev/icons?i=sqlite" width="50px" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="50px" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="50px" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50px" />
+  <img src="https://skillicons.dev/icons?i=git" width="50px" />
+  <img src="https://skillicons.dev/icons?i=github" width="50px" />
+  <img src="https://skillicons.dev/icons?i=docker" width="50px" />
+  <img src="https://skillicons.dev/icons?i=postman" width="50px" />
+  <img src="https://skillicons.dev/icons?i=linux" width="50px" />
+  <img src="https://skillicons.dev/icons?i=windows" width="50px" />
+  <img src="https://skillicons.dev/icons?i=flutter" width="50px" />
+  <img src="https://skillicons.dev/icons?i=figma" width="50px" />
+  <img src="https://skillicons.dev/icons?i=ai" width="50px" />
+  <img src="https://skillicons.dev/icons?i=ps" width="50px" />
+  <img src="https://skillicons.dev/icons?i=discord" width="50px" />
+  <img src="https://skillicons.dev/icons?i=gmail" width="50px" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50px" />
+</div>
 
 ---
 
-## 💻 Bridge Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" align="center" />
+## 💻 Insignias <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" align="center" />
 
 <div align="left">
-  <img src="https://github.com/Nico0900/Nico0900/blob/2ec3946de40f4fee1356d38d6f0b0830d58be592/fundamentos-de-ciberseguridad-industrial-essentials.png" alt="Image Alt" width="80px" />
+  <img src="https://github.com/Nico0900/Nico0900/blob/2ec3946de40f4fee1356d38d6f0b0830d58be592/fundamentos-de-ciberseguridad-industrial-essentials.png" alt="Image Alt" width="90px" />
+  <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/google-it-support-professional-certificate-v2.png" alt="Image Alt" width="90px" />
+  <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/junior-cybersecurity-analyst-career-path.1.png" alt="Image Alt" width="90px"/>
+  <img src="https://github.com/Nico0900/Nico0900/blob/6668616a57d224823561e78f3733cd3d0a3d0e52/it-essentials.png" alt="Image Alt" width="90px" />
+  <img src="https://github.com/Nico0900/Nico0900/blob/2d0bfaa747866fe0d43e8c76c4887baf8c1222f8/python-essentials-1.1.png" alt="Image Alt" width="90px" />
+  <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/networking-basics.png" alt="Image Alt" width="90px" />
+  <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/computer-hardware-basics.png" alt="Image Alt" width="90px" />
 </div>
 
 ---
