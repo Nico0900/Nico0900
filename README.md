@@ -64,14 +64,27 @@ Soy Analista Programador titulado y actualmente curso la carrera de Ingeniería 
   <a href="https://www.credly.com/earner/earned/badge/c136307a-7498-420f-a355-6107792aa202" target="_blank">
     <img src="https://github.com/Nico0900/Nico0900/blob/2be9af8894f81a065713c685eb86600be122fe55/fundamentos-de-arquitectura-cloud-en-azure-essentia.png?raw=true" alt="Image Alt" width="94px" />
   </a>
-  <img src="https://github.com/Nico0900/Nico0900/blob/2be9af8894f81a065713c685eb86600be122fe55/fundamentos-de-arquitectura-cloud-en-azure-essentia.png" alt="Image Alt" width="94px" />
-  <img src="https://github.com/Nico0900/Nico0900/blob/2ec3946de40f4fee1356d38d6f0b0830d58be592/fundamentos-de-ciberseguridad-industrial-essentials.png" alt="Image Alt" width="90px" />
-  <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/google-it-support-professional-certificate-v2.png" alt="Image Alt" width="90px" />
-  <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/junior-cybersecurity-analyst-career-path.1.png" alt="Image Alt" width="90px"/>
-  <img src="https://github.com/Nico0900/Nico0900/blob/6668616a57d224823561e78f3733cd3d0a3d0e52/it-essentials.png" alt="Image Alt" width="90px" />
-  <img src="https://github.com/Nico0900/Nico0900/blob/2d0bfaa747866fe0d43e8c76c4887baf8c1222f8/python-essentials-1.1.png" alt="Image Alt" width="90px" />
-  <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/networking-basics.png" alt="Image Alt" width="90px" />
-  <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/computer-hardware-basics.png" alt="Image Alt" width="90px" />
+  <a href="https://www.credly.com/earner/earned/badge/bca6b0d6-543f-4099-8125-4f195cd8ffba" target="_blank">
+    <img src="https://github.com/Nico0900/Nico0900/blob/2ec3946de40f4fee1356d38d6f0b0830d58be592/fundamentos-de-ciberseguridad-industrial-essentials.png" alt="Image Alt" width="90px" />
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/ea091496-2bd3-43d5-b823-da684fbe85de" target="_blank">
+    <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/google-it-support-professional-certificate-v2.png" alt="Image Alt" width="90px" />
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/bb51c133-bebd-4271-a6e1-b38d147020a1" target="_blank">
+    <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/junior-cybersecurity-analyst-career-path.1.png" alt="Image Alt" width="90px"/>
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/ffae3cf2-791b-4aa5-b803-7e3601bba88e" target="_blank">
+    <img src="https://github.com/Nico0900/Nico0900/blob/6668616a57d224823561e78f3733cd3d0a3d0e52/it-essentials.png" alt="Image Alt" width="90px" />
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/9898316b-83dc-4960-bd87-0e50ef3de321" target="_blank">  
+    <img src="https://github.com/Nico0900/Nico0900/blob/2d0bfaa747866fe0d43e8c76c4887baf8c1222f8/python-essentials-1.1.png" alt="Image Alt" width="90px" />
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/8fe7dc18-64df-48f1-a2a2-987bf76743d7" target="_blank">
+    <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/networking-basics.png" alt="Image Alt" width="90px" />
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/ead17da6-3f17-434b-860f-5f6a16c143e3" target="_blank">
+    <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/computer-hardware-basics.png" alt="Image Alt" width="90px" />
+  </a>
 </div>
 
 ---
