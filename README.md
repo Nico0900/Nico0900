@@ -1,7 +1,7 @@
 Hola! soy Nicolas Vargas <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"  width="32px" align="center" /> 
 ======================================================================================================================================
 <p align="L">
-  <a href="www.linkedin.com/in/nicolas-vargas-4b0262186" target="_blank">
+  <a href="https://www.linkedin.com/in/nicolas-vargas-4b0262186/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
   <a href="mailto:nv0900nico@gmail.com" target="_blank">
