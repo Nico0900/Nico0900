@@ -17,6 +17,7 @@ Hola! soy Nicolas Vargas <img src="https://user-images.githubusercontent.com/183
     <img src="https://img.shields.io/badge/facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" height="30"/>
   </a>
 </p>
+</>
 
 Soy Analista Programador titulado. Me especializo en el desarrollo backend, aunque también tengo experiencia en frontend, diseño y herramientas DevOps. Me interesa el enfoque fullstack, pero mi objetivo es seguir creciendo en backend y ciberseguridad.
 
