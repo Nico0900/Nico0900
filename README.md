@@ -61,6 +61,9 @@ Soy Analista Programador titulado y actualmente curso la carrera de Ingeniería 
 ## 💻 Insignias <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" align="center" />
 
 <div align="left">
+  <a href="https://tu-pagina-destino.com" target="_blank">
+    <img src="https://github.com/Nico0900/Nico0900/blob/2be9af8894f81a065713c685eb86600be122fe55/fundamentos-de-arquitectura-cloud-en-azure-essentia.png?raw=true" alt="Image Alt" width="94px" />
+  </a>
   <img src="https://github.com/Nico0900/Nico0900/blob/2be9af8894f81a065713c685eb86600be122fe55/fundamentos-de-arquitectura-cloud-en-azure-essentia.png" alt="Image Alt" width="94px" />
   <img src="https://github.com/Nico0900/Nico0900/blob/2ec3946de40f4fee1356d38d6f0b0830d58be592/fundamentos-de-ciberseguridad-industrial-essentials.png" alt="Image Alt" width="90px" />
   <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/google-it-support-professional-certificate-v2.png" alt="Image Alt" width="90px" />
