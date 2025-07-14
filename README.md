@@ -25,8 +25,12 @@ Soy Analista Programador titulado y actualmente curso la carrera de Ingeniería 
 ---
 
 ## 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" align="center" />
-
 <img src="https://skillicons.dev/icons?i=py,dart,html,css,bootstrap,django,mysql,postgres,mongodb,git,github,docker,postman,linux,windows,flutter,figma,discord,gmail" />
+
+---
+
+## 💻 Bridge Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" align="center" />
+<img src="https://www.credly.com/badges/ea091496-2bd3-43d5-b823-da684fbe85de/public_url" />
 
 ---
 
