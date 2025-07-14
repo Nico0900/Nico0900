@@ -26,12 +26,17 @@ Soy Analista Programador titulado y actualmente curso la carrera de Ingeniería 
 
 ## 💻 Tecnologias <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" align="center" />
 <div aling="left">
+  <img src="https://skillicons.dev/icons?i=sublime" width="70px" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="70px" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" width="70px" />
   <img src="https://skillicons.dev/icons?i=py" width="70px" />
   <img src="https://skillicons.dev/icons?i=dart" width="70px" />
   <img src="https://skillicons.dev/icons?i=html" width="70px" />
   <img src="https://skillicons.dev/icons?i=css" width="70px" />
   <img src="https://skillicons.dev/icons?i=bootstrap" width="70px" />
+  <img src="https://skillicons.dev/icons?i=anaconda" width="70px" />
   <img src="https://skillicons.dev/icons?i=django" width="70px" />
+  <img src="https://skillicons.dev/icons?i=sqlite" width="70px" />
   <img src="https://skillicons.dev/icons?i=mysql" width="70px" />
   <img src="https://skillicons.dev/icons?i=postgres" width="70px" />
   <img src="https://skillicons.dev/icons?i=mongodb" width="70px" />
@@ -43,8 +48,11 @@ Soy Analista Programador titulado y actualmente curso la carrera de Ingeniería 
   <img src="https://skillicons.dev/icons?i=windows" width="70px" />
   <img src="https://skillicons.dev/icons?i=flutter" width="70px" />
   <img src="https://skillicons.dev/icons?i=figma" width="70px" />
+  <img src="https://skillicons.dev/icons?i=ai" width="70px" />
+  <img src="https://skillicons.dev/icons?i=ps" width="70px" />
   <img src="https://skillicons.dev/icons?i=discord" width="70px" />
   <img src="https://skillicons.dev/icons?i=gmail" width="70px" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="70px" />
 </div>
 
 ---
