@@ -36,7 +36,7 @@ Soy Analista Programador titulado y actualmente curso la carrera de Ingeniería 
   <img src="https://skillicons.dev/icons?i=postgres" width="70px" />
   <img src="https://skillicons.dev/icons?i=mongodb" width="70px" />
   <img src="https://skillicons.dev/icons?i=git" width="70px" />
-  <img src="https://skillicons.dev/icons?igithub" width="70px" />
+  <img src="https://skillicons.dev/icons?i=github" width="70px" />
   <img src="https://skillicons.dev/icons?i=docker" width="70px" />
   <img src="https://skillicons.dev/icons?i=postman" width="70px" />
   <img src="https://skillicons.dev/icons?i=linux" width="70px" />
