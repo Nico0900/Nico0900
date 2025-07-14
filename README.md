@@ -30,8 +30,12 @@ Soy Analista Programador titulado y actualmente curso la carrera de Ingeniería 
 ---
 
 ## 💻 Bridge Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" align="center" />
-![Image Alt](https://github.com/Nico0900/Nico0900/blob/2ec3946de40f4fee1356d38d6f0b0830d58be592/fundamentos-de-ciberseguridad-industrial-essentials.png)
+
+<div align="left">
+  <img src="https://github.com/Nico0900/Nico0900/blob/2ec3946de40f4fee1356d38d6f0b0830d58be592/fundamentos-de-ciberseguridad-industrial-essentials.png" alt="Image Alt" width="80px" />
+</div>
 
 ---
+
 
 💡 *Siempre aprendiendo y mejorando cada día. ¡Gracias por visitar!*
