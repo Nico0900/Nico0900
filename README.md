@@ -25,7 +25,7 @@ Soy Analista Programador titulado y actualmente curso la carrera de Ingeniería 
 ---
 
 ## 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" align="center" />
-<img src="https://skillicons.dev/icons?i=py,dart,html,css,bootstrap,django,mysql,postgres,mongodb,git,github,docker,postman,linux,windows,flutter,figma,discord,gmail" alt="Image Alt" width="3500px" />
+<img src="https://skillicons.dev/icons?i=py,dart,html,css,bootstrap,django,mysql,postgres,mongodb,git,github,docker,postman,linux,windows,flutter,figma,discord,gmail" alt="Image Alt" width="2500px" />
 
 ---
 
