@@ -36,7 +36,7 @@ Soy Analista Programador titulado y actualmente curso la carrera de Ingeniería 
   <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/google-it-support-professional-certificate-v2.png" alt="Image Alt" width="80px" />
   <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/junior-cybersecurity-analyst-career-path.1.png" alt="Image Alt" width="80px"/>
   <img src="https://github.com/Nico0900/Nico0900/blob/46bc1a0e85e8bdbcc9b237c6f2a20de2970d0396/it-essentials.png" alt="Image Alt" width="80px" />
-  <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/pythonessentials-1.1.png" alt="Image Alt" width="80px" />
+  <img src="https://github.com/Nico0900/Nico0900/blob/2d0bfaa747866fe0d43e8c76c4887baf8c1222f8/python-essentials-1.1.png" alt="Image Alt" width="80px" />
   <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/networking-basics.png" alt="Image Alt" width="80px" />
   <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/computer-hardware-basics.png" alt="Image Alt" width="80px" />
 </div>
