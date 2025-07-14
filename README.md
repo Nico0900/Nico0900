@@ -18,7 +18,7 @@ Hola! soy Nicolas Vargas <img src="https://user-images.githubusercontent.com/183
   </a>
 </p>
 
-Soy Analista Programador titulado y actualmente curso la carrera de Ingeniería en Ciberseguridad. Me especializo en el desarrollo backend, aunque también tengo experiencia en frontend, diseño y herramientas DevOps. Me interesa el enfoque fullstack, pero mi objetivo es seguir creciendo en backend y ciberseguridad.
+Soy Analista Programador titulado. Me especializo en el desarrollo backend, aunque también tengo experiencia en frontend, diseño y herramientas DevOps. Me interesa el enfoque fullstack, pero mi objetivo es seguir creciendo en backend y ciberseguridad.
 
 🐍 Trabajo principalmente con Python, y tengo experiencia en automatización y desarrollo web. También he desarrollado aplicaciones móviles usando Dart y Flutter. Manejo herramientas como Git, Docker, y bases de datos como MySQL, PostgreSQL y MongoDB. En este perfil comparto proyectos personales, pruebas de concepto y recursos de aprendizaje. ¡Gracias por visitar!
 
@@ -58,7 +58,7 @@ Soy Analista Programador titulado y actualmente curso la carrera de Ingeniería 
 
 ---
 
-## 💻 Insignias <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" align="center" />
+## 🏅 Insignias <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" align="center" />
 
 <div align="left">
   <a href="https://www.credly.com/earner/earned/badge/c136307a-7498-420f-a355-6107792aa202" target="_blank">
