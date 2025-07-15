@@ -81,7 +81,7 @@ Soy Analista Programador titulado. Me especializo en el desarrollo backend, aunq
     <img src="https://github.com/Nico0900/Nico0900/blob/2d0bfaa747866fe0d43e8c76c4887baf8c1222f8/python-essentials-1.1.png" alt="Image Alt" width="90px" />
   </a>
   <a href="https://www.credly.com/earner/earned/badge/6a2c50bb-d2d7-4393-ae1c-b3bd79d412fe" target="_blank">  
-    <img src="" alt="Image Alt" width="90px" />
+    <img src="https://github.com/Nico0900/Nico0900/blob/ebd04661b0763595600ffb64c6b2464509da5151/python-essentials-2.png" alt="Image Alt" width="90px" />
   </a>
   <a href="https://www.credly.com/earner/earned/badge/8fe7dc18-64df-48f1-a2a2-987bf76743d7" target="_blank">
     <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/networking-basics.png" alt="Image Alt" width="90px" />
