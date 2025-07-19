@@ -27,7 +27,7 @@ Soy Analista Programador titulado. Me especializo en el desarrollo backend, aunq
 
 ## 💻 Tecnologias <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" align="center" />
 <div aling="left">
-  <img src="https://skillicons.dev/icons?i=bash" width="50px" />
+<!--   <img src="https://skillicons.dev/icons?i=bash" width="50px" /> -->
   <img src="https://skillicons.dev/icons?i=sublime" width="50px" />
   <img src="https://skillicons.dev/icons?i=vscode" width="50px" />
   <img src="https://skillicons.dev/icons?i=androidstudio" width="50px" />
