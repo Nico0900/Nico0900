@@ -21,7 +21,7 @@ Hola! soy Nicolas Vargas <img src="https://user-images.githubusercontent.com/183
 
 Soy Analista Programador titulado. Me especializo en el desarrollo backend, aunque también tengo experiencia en frontend, diseño y herramientas DevOps. Me interesa el enfoque fullstack, pero mi objetivo es seguir creciendo en backend y ciberseguridad.
 
-🐍 Trabajo principalmente con Python, y tengo experiencia en automatización y desarrollo web. También he desarrollado aplicaciones móviles usando Dart y Flutter. Manejo herramientas como Git, Docker, y bases de datos como MySQL, PostgreSQL y MongoDB. En este perfil comparto proyectos personales, pruebas de concepto y recursos de aprendizaje. ¡Gracias por visitar!
+🐍 Trabajo principalmente con Python, y tengo experiencia en automatización y desarrollo web con HTML5, CSS3, Javascripts. También he desarrollado aplicaciones móviles usando Dart y Flutter. Manejo herramientas como Git, Docker, y bases de datos como MySQL, PostgreSQL y MongoDB. En este perfil comparto proyectos personales, pruebas de concepto y recursos de aprendizaje. ¡Gracias por visitar!
 
 ---
 
