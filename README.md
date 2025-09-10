@@ -37,6 +37,8 @@ Soy Analista Programador titulado. Me especializo en el desarrollo backend, aunq
   <img src="https://skillicons.dev/icons?i=css" width="50px" />
   <img src="https://skillicons.dev/icons?i=bootstrap" width="50px" />
   <img src="https://skillicons.dev/icons?i=django" width="50px" />
+  <img src="https://skillicons.dev/icons?i=fastapi" width="50px" />
+  <img src="https://skillicons.dev/icons?i=gcp" width="50px" />
   <img src="https://skillicons.dev/icons?i=sqlite" width="50px" />
   <img src="https://skillicons.dev/icons?i=mysql" width="50px" />
   <img src="https://skillicons.dev/icons?i=postgres" width="50px" />
