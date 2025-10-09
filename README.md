@@ -33,12 +33,18 @@ Soy Analista Programador titulado. Me especializo en el desarrollo backend, aunq
   <img src="https://skillicons.dev/icons?i=androidstudio" width="50px" />
   <img src="https://skillicons.dev/icons?i=py" width="50px" />
   <img src="https://skillicons.dev/icons?i=dart" width="50px" />
+  <img src="https://skillicons.dev/icons?i=astro" width="50px" />
+  <img src="https://skillicons.dev/icons?i=react" width="50px" />
   <img src="https://skillicons.dev/icons?i=html" width="50px" />
   <img src="https://skillicons.dev/icons?i=css" width="50px" />
   <img src="https://skillicons.dev/icons?i=bootstrap" width="50px" />
   <img src="https://skillicons.dev/icons?i=django" width="50px" />
   <img src="https://skillicons.dev/icons?i=fastapi" width="50px" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50px" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50px" />
+  <img src="https://skillicons.dev/icons?i=firebase" width="50px" />
   <img src="https://skillicons.dev/icons?i=gcp" width="50px" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" width="50px" />
   <img src="https://skillicons.dev/icons?i=sqlite" width="50px" />
   <img src="https://skillicons.dev/icons?i=mysql" width="50px" />
   <img src="https://skillicons.dev/icons?i=postgres" width="50px" />
