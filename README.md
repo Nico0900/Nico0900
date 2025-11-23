@@ -10,7 +10,7 @@ Hola! soy Nicolas Vargas <img src="https://user-images.githubusercontent.com/183
   <a href="https://wa.me/+56958861274" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
   </a>
-  <a href="https://instagram.com/heic_mf" target="_blank">
+  <a href="https://instagram.com/az_scripts" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
   </a>
   <a href="https://facebook.com/eduardo.kuentero" target="_blank">
