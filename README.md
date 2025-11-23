@@ -19,9 +19,18 @@ Hola! soy Nicolas Vargas <img src="https://user-images.githubusercontent.com/183
 </p>
 </>
 
-Soy Analista Programador titulado. Me especializo en el desarrollo backend, aunque también tengo experiencia en frontend, diseño y herramientas DevOps. Me interesa el enfoque fullstack, pero mi objetivo es seguir creciendo en backend y ciberseguridad.
+Soy Nicolás Vargas, Desarrollador Full Stack especializado en soluciones digitales para el sector público y privado, con sede en Rancagua, Chile.
+Actualmente me desempeño como Full Stack Developer en la Municipalidad de Graneros, donde lidero el desarrollo de sistemas de gestión municipal, intranets colaborativas, aplicaciones PWA y plataformas web que modernizan los servicios públicos. Mi trabajo combina tecnologías como React, Astro, TypeScript, Firebase y Supabase para crear soluciones escalables y seguras.
 
-🐍 Trabajo principalmente con Python, y tengo experiencia en automatización y desarrollo web con HTML5, CSS3, Javascripts. También he desarrollado aplicaciones móviles usando Dart y Flutter. Manejo herramientas como Git, Docker, y bases de datos como MySQL, PostgreSQL y MongoDB. En este perfil comparto proyectos personales, pruebas de concepto y recursos de aprendizaje. ¡Gracias por visitar!
+Mi enfoque personal es creee en la tecnología como herramienta de transformación social. Cada proyecto que desarrollo busca simplificar procesos, mejorar la experiencia del usuario y generar un impacto real en la comunidad. Me apasiona escribir código limpio, implementar arquitecturas sólidas y aplicar las mejores prácticas de seguridad web.
+
+Soy Titulado con Distinción Máxima como Técnico Analista Programador por el Instituto Profesional Santo Tomás. En 2026 continuaré mi formación en Ingeniería en Computación e Informática en Universidad Andrés Bello (modalidad online). Comprometido con el aprendizaje continuo, cuento con certificaciones de Google, Cisco, IBM y múltiples plataformas educativas en desarrollo web, Python, ciberseguridad y cloud computing.
+
+Especialidades técnicas:
+JavaScript/TypeScript, React, Astro, Node.js, Firebase, Supabase, MySQL, PostgreSQL, MongoDB, Git, APIs REST, Seguridad Web, Diseño Responsive, PWA.
+
+¿Conectamos?
+Estoy abierto a colaboraciones, proyectos freelance y conversaciones sobre tecnología y desarrollo web. Si buscas un desarrollador comprometido con la calidad y el impacto real, escríbeme.
 
 ---
 
