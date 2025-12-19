@@ -85,7 +85,7 @@ Estoy abierto a colaboraciones, proyectos freelance y conversaciones sobre tecno
     <img src="https://github.com/Nico0900/Nico0900/blob/main/artificial-intelligence-fundamentals.png" alt="Image Alt" width="94px" />
   </a> 
   <a href="https://www.credly.com/badges/3f95b1f8-5cd1-451c-9b4f-ce7c2ee5a0df/public_url" target="_blank">
-    <img src="https://github.com/Nico0900/Nico0900/blob/main/agile-explorer.png" alt="Image Alt" width="94px" />
+    <img src="https://github.com/Nico0900/Nico0900/blob/main/data-fundamentals.png" alt="Image Alt" width="94px" />
   </a> 
   <a href="https://www.credly.com/earner/earned/badge/fec3c59a-0cb9-4d70-89cd-97e179bac3c0" target="_blank">
     <img src="https://github.com/Nico0900/Nico0900/blob/main/agile-explorer.png" alt="Image Alt" width="94px" />
