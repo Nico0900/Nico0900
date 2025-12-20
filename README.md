@@ -82,6 +82,9 @@ Estoy abierto a colaboraciones, proyectos freelance y conversaciones sobre tecno
   <a href="https://www.credly.com/badges/9b42f61b-34b1-40db-9bb3-f47490d9fd75/public_url" target="_blank">
     <img src="https://github.com/Nico0900/Nico0900/blob/main/data-classification.png" alt="Image Alt" width="94px" />
   </a> 
+  <a href="https://www.credly.com/badges/1fbdf1e0-4f4b-4ff4-867f-c9bc57df159f/public_url" target="_blank">
+    <img src="https://github.com/Nico0900/Nico0900/blob/main/python-for-data-science.png" alt="Image Alt" width="94px" />
+  </a> 
   <a href="https://www.credly.com/badges/2c72cb48-5b8a-4c3e-9519-312575f89209/public_url" target="_blank">
     <img src="https://github.com/Nico0900/Nico0900/blob/main/machine-learning-with-python-level-1.png" alt="Image Alt" width="94px" />
   </a> 
