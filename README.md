@@ -112,11 +112,11 @@ Estoy abierto a colaboraciones, proyectos freelance y conversaciones sobre tecno
   <a href="https://www.credly.com/earner/earned/badge/43c76838-4655-4e5e-84e1-b5756f4855a5" target="_blank">
     <img src="https://github.com/Nico0900/Nico0900/blob/main/linux-desde-cero-fundamentos-de-sistemas-operativos.png" alt="Image Alt" width="90px" />
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/de05392a-f034-4c0d-b6e1-0d0ab6396f3a" target="_blank">
-    <img src="https://github.com/Nico0900/Nico0900/blob/main/ethical-hacker.png" alt="Image Alt" width="90px"/>
-  </a>
   <a href="https://www.credly.com/earner/earned/badge/ea091496-2bd3-43d5-b823-da684fbe85de" target="_blank">
     <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/google-it-support-professional-certificate-v2.png" alt="Image Alt" width="90px" />
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/de05392a-f034-4c0d-b6e1-0d0ab6396f3a" target="_blank">
+    <img src="https://github.com/Nico0900/Nico0900/blob/main/ethical-hacker.png" alt="Image Alt" width="90px"/>
   </a>
   <a href="https://www.credly.com/earner/earned/badge/bb51c133-bebd-4271-a6e1-b38d147020a1" target="_blank">
     <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/junior-cybersecurity-analyst-career-path.1.png" alt="Image Alt" width="90px"/>
