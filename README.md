@@ -105,10 +105,13 @@ Estoy abierto a colaboraciones, proyectos freelance y conversaciones sobre tecno
   </a>
   <a href="https://www.credly.com/earner/earned/badge/bca6b0d6-543f-4099-8125-4f195cd8ffba" target="_blank">
     <img src="https://github.com/Nico0900/Nico0900/blob/2ec3946de40f4fee1356d38d6f0b0830d58be592/fundamentos-de-ciberseguridad-industrial-essentials.png" alt="Image Alt" width="90px" />
+  </a>
   <a href="https://www.credly.com/earner/earned/badge/f9a3e85b-fad2-49fa-abfb-77b2d4c0e6e5" target="_blank">
-    <img src="https://github.com/Nico0900/Nico0900/blob/2ec3946de40f4fee1356d38d6f0b0830d58be592/fundamentos-en-blue-team-ciberinteligencia-forense-.png" alt="Image Alt" width="90px" />
+    <img src="https://github.com/Nico0900/Nico0900/blob/main/fundamentos-en-blue-team-ciberinteligencia-forense-.png" alt="Image Alt" width="90px" />
+  </a>
   <a href="https://www.credly.com/earner/earned/badge/43c76838-4655-4e5e-84e1-b5756f4855a5" target="_blank">
     <img src="https://github.com/Nico0900/Nico0900/blob/2ec3946de40f4fee1356d38d6f0b0830d58be592/linux-desde-cero-fundamentos-de-sistemas-operativos.png" alt="Image Alt" width="90px" />
+  </a>
   <a href="https://www.credly.com/earner/earned/badge/de05392a-f034-4c0d-b6e1-0d0ab6396f3a" target="_blank">
     <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/ethical-hacker.png" alt="Image Alt" width="90px"/>
   </a>
