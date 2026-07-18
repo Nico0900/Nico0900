@@ -78,63 +78,62 @@ Estoy abierto a colaboraciones, proyectos freelance y conversaciones sobre tecno
 ## 🏅 Insignias <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" align="center" />
 
 <div align="left">
-   
-  <a href="https://www.credly.com/badges/9b42f61b-34b1-40db-9bb3-f47490d9fd75/public_url" target="_blank">
-    <img src="https://github.com/Nico0900/Nico0900/blob/main/data-classification.png" alt="Image Alt" width="94px" />
-  </a> 
-  <a href="https://www.credly.com/badges/1fbdf1e0-4f4b-4ff4-867f-c9bc57df159f/public_url" target="_blank">
-    <img src="https://github.com/Nico0900/Nico0900/blob/main/python-for-data-science.png" alt="Image Alt" width="94px" />
-  </a> 
-  <a href="https://www.credly.com/badges/2c72cb48-5b8a-4c3e-9519-312575f89209/public_url" target="_blank">
-    <img src="https://github.com/Nico0900/Nico0900/blob/main/machine-learning-with-python-level-1.png" alt="Image Alt" width="94px" />
-  </a> 
-  <a href="https://www.credly.com/badges/584c01e1-1d93-494d-8390-d47fe2872b88/public_url" target="_blank">
-    <img src="https://github.com/Nico0900/Nico0900/blob/main/data-visualization-using-python.png" alt="Image Alt" width="94px" />
-  </a> 
-  <a href="https://www.credly.com/badges/745b2a28-12b0-4965-85d9-fc9c1ac57f69/public_url" target="_blank">
-    <img src="https://github.com/Nico0900/Nico0900/blob/main/artificial-intelligence-fundamentals.png" alt="Image Alt" width="94px" />
-  </a> 
-  <a href="https://www.credly.com/badges/3f95b1f8-5cd1-451c-9b4f-ce7c2ee5a0df/public_url" target="_blank">
-    <img src="https://github.com/Nico0900/Nico0900/blob/main/data-fundamentals.png" alt="Image Alt" width="94px" />
-  </a> 
-  <a href="https://www.credly.com/earner/earned/badge/fec3c59a-0cb9-4d70-89cd-97e179bac3c0" target="_blank">
-    <img src="https://github.com/Nico0900/Nico0900/blob/main/agile-explorer.png" alt="Image Alt" width="94px" />
-  </a> 
   <a href="https://www.credly.com/earner/earned/badge/c136307a-7498-420f-a355-6107792aa202" target="_blank">
-    <img src="https://github.com/Nico0900/Nico0900/blob/2be9af8894f81a065713c685eb86600be122fe55/fundamentos-de-arquitectura-cloud-en-azure-essentia.png?raw=true" alt="Image Alt" width="94px" />
+    <img src="https://github.com/Nico0900/Nico0900/blob/2be9af8894f81a065713c685eb86600be122fe55/fundamentos-de-arquitectura-cloud-en-azure-essentia.png?raw=true" alt="Image Alt" width="109px" />
   </a>
   <a href="https://www.credly.com/earner/earned/badge/bca6b0d6-543f-4099-8125-4f195cd8ffba" target="_blank">
-    <img src="https://github.com/Nico0900/Nico0900/blob/2ec3946de40f4fee1356d38d6f0b0830d58be592/fundamentos-de-ciberseguridad-industrial-essentials.png" alt="Image Alt" width="90px" />
+    <img src="https://github.com/Nico0900/Nico0900/blob/2ec3946de40f4fee1356d38d6f0b0830d58be592/fundamentos-de-ciberseguridad-industrial-essentials.png" alt="Image Alt" width="105px" />
   </a>
   <a href="https://www.credly.com/earner/earned/badge/f9a3e85b-fad2-49fa-abfb-77b2d4c0e6e5" target="_blank">
-    <img src="https://github.com/Nico0900/Nico0900/blob/main/fundamentos-en-blue-team-ciberinteligencia-forense-.png" alt="Image Alt" width="90px" />
+    <img src="https://github.com/Nico0900/Nico0900/blob/main/fundamentos-en-blue-team-ciberinteligencia-forense-.png" alt="Image Alt" width="105px" />
   </a>
   <a href="https://www.credly.com/earner/earned/badge/43c76838-4655-4e5e-84e1-b5756f4855a5" target="_blank">
-    <img src="https://github.com/Nico0900/Nico0900/blob/main/linux-desde-cero-fundamentos-de-sistemas-operativos.png" alt="Image Alt" width="90px" />
+    <img src="https://github.com/Nico0900/Nico0900/blob/main/linux-desde-cero-fundamentos-de-sistemas-operativos.png" alt="Image Alt" width="105px" />
   </a>
   <a href="https://www.credly.com/earner/earned/badge/ea091496-2bd3-43d5-b823-da684fbe85de" target="_blank">
-    <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/google-it-support-professional-certificate-v2.png" alt="Image Alt" width="90px" />
+    <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/google-it-support-professional-certificate-v2.png" alt="Image Alt" width="105px" />
   </a>
+    <a href="https://www.credly.com/badges/9b42f61b-34b1-40db-9bb3-f47490d9fd75/public_url" target="_blank">
+    <img src="https://github.com/Nico0900/Nico0900/blob/main/data-classification.png" alt="Image Alt" width="109px" />
+  </a> 
+  <a href="https://www.credly.com/badges/1fbdf1e0-4f4b-4ff4-867f-c9bc57df159f/public_url" target="_blank">
+    <img src="https://github.com/Nico0900/Nico0900/blob/main/python-for-data-science.png" alt="Image Alt" width="109px" />
+  </a> 
+  <a href="https://www.credly.com/badges/2c72cb48-5b8a-4c3e-9519-312575f89209/public_url" target="_blank">
+    <img src="https://github.com/Nico0900/Nico0900/blob/main/machine-learning-with-python-level-1.png" alt="Image Alt" width="109px" />
+  </a> 
+  <a href="https://www.credly.com/badges/584c01e1-1d93-494d-8390-d47fe2872b88/public_url" target="_blank">
+    <img src="https://github.com/Nico0900/Nico0900/blob/main/data-visualization-using-python.png" alt="Image Alt" width="109px" />
+  </a> 
+  <a href="https://www.credly.com/badges/745b2a28-12b0-4965-85d9-fc9c1ac57f69/public_url" target="_blank">
+    <img src="https://github.com/Nico0900/Nico0900/blob/main/artificial-intelligence-fundamentals.png" alt="Image Alt" width="109px" />
+  </a> 
+  <a href="https://www.credly.com/badges/3f95b1f8-5cd1-451c-9b4f-ce7c2ee5a0df/public_url" target="_blank">
+    <img src="https://github.com/Nico0900/Nico0900/blob/main/data-fundamentals.png" alt="Image Alt" width="109px" />
+  </a> 
+  <a href="https://www.credly.com/earner/earned/badge/fec3c59a-0cb9-4d70-89cd-97e179bac3c0" target="_blank">
+    <img src="https://github.com/Nico0900/Nico0900/blob/main/agile-explorer.png" alt="Image Alt" width="109px" />
+  </a> 
   <a href="https://www.credly.com/earner/earned/badge/de05392a-f034-4c0d-b6e1-0d0ab6396f3a" target="_blank">
-    <img src="https://github.com/Nico0900/Nico0900/blob/main/ethical-hacker.png" alt="Image Alt" width="90px"/>
+    <img src="https://github.com/Nico0900/Nico0900/blob/main/ethical-hacker.png" alt="Image Alt" width="105px"/>
   </a>
   <a href="https://www.credly.com/earner/earned/badge/bb51c133-bebd-4271-a6e1-b38d147020a1" target="_blank">
-    <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/junior-cybersecurity-analyst-career-path.1.png" alt="Image Alt" width="90px"/>
+    <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/junior-cybersecurity-analyst-career-path.1.png" alt="Image Alt" width="105px"/>
   </a>
   <a href="https://www.credly.com/earner/earned/badge/ffae3cf2-791b-4aa5-b803-7e3601bba88e" target="_blank">
-    <img src="https://github.com/Nico0900/Nico0900/blob/6668616a57d224823561e78f3733cd3d0a3d0e52/it-essentials.png" alt="Image Alt" width="90px" />
+    <img src="https://github.com/Nico0900/Nico0900/blob/6668616a57d224823561e78f3733cd3d0a3d0e52/it-essentials.png" alt="Image Alt" width="105px" />
   </a>
   <a href="https://www.credly.com/earner/earned/badge/9898316b-83dc-4960-bd87-0e50ef3de321" target="_blank">  
-    <img src="https://github.com/Nico0900/Nico0900/blob/2d0bfaa747866fe0d43e8c76c4887baf8c1222f8/python-essentials-1.1.png" alt="Image Alt" width="90px" />
+    <img src="https://github.com/Nico0900/Nico0900/blob/2d0bfaa747866fe0d43e8c76c4887baf8c1222f8/python-essentials-1.1.png" alt="Image Alt" width="105px" />
   </a>
   <a href="https://www.credly.com/earner/earned/badge/6a2c50bb-d2d7-4393-ae1c-b3bd79d412fe" target="_blank">  
-    <img src="https://github.com/Nico0900/Nico0900/blob/ebd04661b0763595600ffb64c6b2464509da5151/python-essentials-2.png" alt="Image Alt" width="90px" />
+    <img src="https://github.com/Nico0900/Nico0900/blob/ebd04661b0763595600ffb64c6b2464509da5151/python-essentials-2.png" alt="Image Alt" width="105px" />
   </a>
   <a href="https://www.credly.com/earner/earned/badge/8fe7dc18-64df-48f1-a2a2-987bf76743d7" target="_blank">
-    <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/networking-basics.png" alt="Image Alt" width="90px" />
+    <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/networking-basics.png" alt="Image Alt" width="105px" />
   </a>
   <a href="https://www.credly.com/earner/earned/badge/ead17da6-3f17-434b-860f-5f6a16c143e3" target="_blank">
-    <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/computer-hardware-basics.png" alt="Image Alt" width="90px" />
+    <img src="https://github.com/Nico0900/Nico0900/blob/5418ecf6cfdd67f68c2c1d01f97588b7c1065257/computer-hardware-basics.png" alt="Image Alt" width="105px" />
   </a>
 </div>
 
