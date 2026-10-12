@@ -68,7 +68,7 @@ Soy Nicolás Vargas, **Software Engineer & Full Stack Developer**, con experienc
 
 <div align="left">
   <a href="https://www.credly.com/earner/earned/badge/c0c76f59-e569-4c6f-9c53-d924af36965e" target="_blank">
-    <img src="https://github.com/Nico0900/Nico0900/blob/2be9af8894f81a065713c685eb86600be122fe55/1?raw=true" alt="Image Alt" width="109px" />
+    <img src="https://github.com/Nico0900/Nico0900/blob/2be9af8894f81a065713c685eb86600be122fe55/google-it-support-professional-certificate-v-3.png?raw=true" alt="Image Alt" width="109px" />
   </a>
   <a href="https://www.credly.com/earner/earned/badge/c136307a-7498-420f-a355-6107792aa202" target="_blank">
     <img src="https://github.com/Nico0900/Nico0900/blob/2be9af8894f81a065713c685eb86600be122fe55/fundamentos-de-arquitectura-cloud-en-azure-essentia.png?raw=true" alt="Image Alt" width="109px" />
